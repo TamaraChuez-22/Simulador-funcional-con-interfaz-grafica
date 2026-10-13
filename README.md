@@ -91,10 +91,8 @@ Regla de dependencias: `ui` usa `logic` y `models`; `logic` usa `models`; `model
 
 - `analisis-funcional.md`: análisis técnico de la solución.
 - `bitacora-ia.md`: registro del uso de IA.
-- `guion-video.md`: guion para grabar el video de explicación.
-- `enlace-video.txt`: enlace al video (lo coloca la estudiante al subirlo).
+- `enlace-video.txt`.
 
-## Limitaciones conocidas
 
 - Las pruebas de interfaz se ejecutaron con una pantalla virtual y en el equipo de la estudiante (Windows); no se probó en otros sistemas ni resoluciones.
 - Las partidas tienen azar; los resultados varían entre partidas.
