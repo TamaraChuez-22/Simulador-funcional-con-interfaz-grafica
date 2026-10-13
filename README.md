@@ -93,6 +93,6 @@ Regla de dependencias: `ui` usa `logic` y `models`; `logic` usa `models`; `model
 - `bitacora-ia.md`: registro del uso de IA.
 - `enlace-video.txt`.
 
-##Limitaciones conocidas
+## Limitaciones conocidas
 - Las pruebas de interfaz se ejecutaron con una pantalla virtual y en el equipo de la estudiante (Windows); no se probó en otros sistemas ni resoluciones.
 - Las partidas tienen azar; los resultados varían entre partidas.
