@@ -1,6 +1,4 @@
-from pathlib import Path
-
-contenido = r"""# BITÁCORA DE USO DE INTELIGENCIA ARTIFICIAL
+"""# BITÁCORA DE USO DE INTELIGENCIA ARTIFICIAL
 
 **Proyecto:** Expedición: Zona Cero  
 **Asignatura:** Programación Funcional — Unidades 1 y 2
