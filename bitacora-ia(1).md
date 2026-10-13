@@ -1,4 +1,4 @@
-"""# BITÁCORA DE USO DE INTELIGENCIA ARTIFICIAL
+# Bitácora de uso de IA — Expedición: Zona Cero
 
 **Proyecto:** Expedición: Zona Cero  
 **Asignatura:** Programación Funcional — Unidades 1 y 2
